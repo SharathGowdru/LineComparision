@@ -21,6 +21,10 @@ namespace UC2_LineComparison
             }
             else
                 Console.WriteLine("Two Lines are not Equal:");
+            if (line1 > line2)
+                Console.WriteLine("Line 1 is greater : " + line1);
+            else if (line2 > line1)
+                Console.WriteLine("Line 2 is greater : " + line2);
         }
     }
 }

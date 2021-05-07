@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineEqality", "LineEqality\LineEqality.csproj", "{B19F2A2A-DB7A-4216-9208-BDB22C86797B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC-3_LineComparision", "UC-3_LineComparision\UC-3_LineComparision.csproj", "{DA479655-E603-4E29-A4AC-5793CA44E473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B19F2A2A-DB7A-4216-9208-BDB22C86797B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B19F2A2A-DB7A-4216-9208-BDB22C86797B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B19F2A2A-DB7A-4216-9208-BDB22C86797B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B19F2A2A-DB7A-4216-9208-BDB22C86797B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA479655-E603-4E29-A4AC-5793CA44E473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA479655-E603-4E29-A4AC-5793CA44E473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA479655-E603-4E29-A4AC-5793CA44E473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA479655-E603-4E29-A4AC-5793CA44E473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B26858AA-824D-498C-97A2-C8E473B14194}
+		SolutionGuid = {B96FBF93-4A19-4251-A8F5-22BB02F4822C}
 	EndGlobalSection
 EndGlobal
